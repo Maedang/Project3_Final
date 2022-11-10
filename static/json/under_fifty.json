@@ -1,0 +1,3601 @@
+[{
+  "_id": {
+    "$oid": "63638038423ae710289d8052"
+  },
+  "Country": "Australia",
+  "Year": 1990,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 766,
+  "Alcohol (15-49)": 1596,
+  "High BMI (15-49)": 713,
+  "Smoking (15-49)": 1174,
+  "Drug Use (15-49)": 619
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8053"
+  },
+  "Country": "Australia",
+  "Year": 1991,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 755,
+  "Alcohol (15-49)": 1554,
+  "High BMI (15-49)": 711,
+  "Smoking (15-49)": 1144,
+  "Drug Use (15-49)": 652
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8054"
+  },
+  "Country": "Australia",
+  "Year": 1992,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 752,
+  "Alcohol (15-49)": 1529,
+  "High BMI (15-49)": 717,
+  "Smoking (15-49)": 1127,
+  "Drug Use (15-49)": 706
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8055"
+  },
+  "Country": "Australia",
+  "Year": 1993,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 738,
+  "Alcohol (15-49)": 1505,
+  "High BMI (15-49)": 713,
+  "Smoking (15-49)": 1099,
+  "Drug Use (15-49)": 757
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8056"
+  },
+  "Country": "Australia",
+  "Year": 1994,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 746,
+  "Alcohol (15-49)": 1533,
+  "High BMI (15-49)": 728,
+  "Smoking (15-49)": 1092,
+  "Drug Use (15-49)": 837
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8057"
+  },
+  "Country": "Australia",
+  "Year": 1995,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 747,
+  "Alcohol (15-49)": 1552,
+  "High BMI (15-49)": 735,
+  "Smoking (15-49)": 1075,
+  "Drug Use (15-49)": 916
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8058"
+  },
+  "Country": "Australia",
+  "Year": 1996,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 746,
+  "Alcohol (15-49)": 1572,
+  "High BMI (15-49)": 744,
+  "Smoking (15-49)": 1061,
+  "Drug Use (15-49)": 961
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8059"
+  },
+  "Country": "Australia",
+  "Year": 1997,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 743,
+  "Alcohol (15-49)": 1600,
+  "High BMI (15-49)": 752,
+  "Smoking (15-49)": 1037,
+  "Drug Use (15-49)": 1022
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d805a"
+  },
+  "Country": "Australia",
+  "Year": 1998,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 744,
+  "Alcohol (15-49)": 1629,
+  "High BMI (15-49)": 762,
+  "Smoking (15-49)": 1021,
+  "Drug Use (15-49)": 1081
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d805b"
+  },
+  "Country": "Australia",
+  "Year": 1999,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 738,
+  "Alcohol (15-49)": 1619,
+  "High BMI (15-49)": 762,
+  "Smoking (15-49)": 1000,
+  "Drug Use (15-49)": 1084
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d805c"
+  },
+  "Country": "Australia",
+  "Year": 2000,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 735,
+  "Alcohol (15-49)": 1590,
+  "High BMI (15-49)": 766,
+  "Smoking (15-49)": 989,
+  "Drug Use (15-49)": 1009
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d805d"
+  },
+  "Country": "Australia",
+  "Year": 2001,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 718,
+  "Alcohol (15-49)": 1543,
+  "High BMI (15-49)": 754,
+  "Smoking (15-49)": 970,
+  "Drug Use (15-49)": 883
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d805e"
+  },
+  "Country": "Australia",
+  "Year": 2002,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 707,
+  "Alcohol (15-49)": 1533,
+  "High BMI (15-49)": 754,
+  "Smoking (15-49)": 962,
+  "Drug Use (15-49)": 842
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d805f"
+  },
+  "Country": "Australia",
+  "Year": 2003,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 694,
+  "Alcohol (15-49)": 1526,
+  "High BMI (15-49)": 758,
+  "Smoking (15-49)": 954,
+  "Drug Use (15-49)": 846
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8060"
+  },
+  "Country": "Australia",
+  "Year": 2004,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 658,
+  "Alcohol (15-49)": 1499,
+  "High BMI (15-49)": 743,
+  "Smoking (15-49)": 936,
+  "Drug Use (15-49)": 848
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8061"
+  },
+  "Country": "Australia",
+  "Year": 2005,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 637,
+  "Alcohol (15-49)": 1491,
+  "High BMI (15-49)": 736,
+  "Smoking (15-49)": 922,
+  "Drug Use (15-49)": 854
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8062"
+  },
+  "Country": "Australia",
+  "Year": 2006,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 613,
+  "Alcohol (15-49)": 1481,
+  "High BMI (15-49)": 727,
+  "Smoking (15-49)": 905,
+  "Drug Use (15-49)": 827
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8063"
+  },
+  "Country": "Australia",
+  "Year": 2007,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 599,
+  "Alcohol (15-49)": 1504,
+  "High BMI (15-49)": 731,
+  "Smoking (15-49)": 901,
+  "Drug Use (15-49)": 799
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8064"
+  },
+  "Country": "Australia",
+  "Year": 2008,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 593,
+  "Alcohol (15-49)": 1522,
+  "High BMI (15-49)": 736,
+  "Smoking (15-49)": 895,
+  "Drug Use (15-49)": 768
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8065"
+  },
+  "Country": "Australia",
+  "Year": 2009,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 582,
+  "Alcohol (15-49)": 1540,
+  "High BMI (15-49)": 738,
+  "Smoking (15-49)": 887,
+  "Drug Use (15-49)": 744
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8066"
+  },
+  "Country": "Australia",
+  "Year": 2010,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 566,
+  "Alcohol (15-49)": 1520,
+  "High BMI (15-49)": 725,
+  "Smoking (15-49)": 862,
+  "Drug Use (15-49)": 745
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8067"
+  },
+  "Country": "Australia",
+  "Year": 2011,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 538,
+  "Alcohol (15-49)": 1487,
+  "High BMI (15-49)": 695,
+  "Smoking (15-49)": 822,
+  "Drug Use (15-49)": 766
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8068"
+  },
+  "Country": "Australia",
+  "Year": 2012,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 517,
+  "Alcohol (15-49)": 1459,
+  "High BMI (15-49)": 671,
+  "Smoking (15-49)": 786,
+  "Drug Use (15-49)": 778
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8069"
+  },
+  "Country": "Australia",
+  "Year": 2013,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 515,
+  "Alcohol (15-49)": 1463,
+  "High BMI (15-49)": 671,
+  "Smoking (15-49)": 780,
+  "Drug Use (15-49)": 811
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d806a"
+  },
+  "Country": "Australia",
+  "Year": 2014,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 530,
+  "Alcohol (15-49)": 1487,
+  "High BMI (15-49)": 690,
+  "Smoking (15-49)": 790,
+  "Drug Use (15-49)": 870
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d806b"
+  },
+  "Country": "Australia",
+  "Year": 2015,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 542,
+  "Alcohol (15-49)": 1517,
+  "High BMI (15-49)": 705,
+  "Smoking (15-49)": 794,
+  "Drug Use (15-49)": 926
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d806c"
+  },
+  "Country": "Australia",
+  "Year": 2016,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 533,
+  "Alcohol (15-49)": 1491,
+  "High BMI (15-49)": 696,
+  "Smoking (15-49)": 771,
+  "Drug Use (15-49)": 960
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d806d"
+  },
+  "Country": "Australia",
+  "Year": 2017,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 539,
+  "Alcohol (15-49)": 1488,
+  "High BMI (15-49)": 700,
+  "Smoking (15-49)": 764,
+  "Drug Use (15-49)": 991
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d806e"
+  },
+  "Country": "Australia",
+  "Year": 2018,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 539,
+  "Alcohol (15-49)": 1493,
+  "High BMI (15-49)": 697,
+  "Smoking (15-49)": 748,
+  "Drug Use (15-49)": 1024
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d806f"
+  },
+  "Country": "Australia",
+  "Year": 2019,
+  "Code": "AUS",
+  "High Blood Pressure (15-49)": 539,
+  "Alcohol (15-49)": 1500,
+  "High BMI (15-49)": 694,
+  "Smoking (15-49)": 731,
+  "Drug Use (15-49)": 1053
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8070"
+  },
+  "Country": "Brazil",
+  "Year": 1990,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19167,
+  "Alcohol (15-49)": 24333,
+  "High BMI (15-49)": 14679,
+  "Smoking (15-49)": 20064,
+  "Drug Use (15-49)": 2363
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8071"
+  },
+  "Country": "Brazil",
+  "Year": 1991,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18763,
+  "Alcohol (15-49)": 24563,
+  "High BMI (15-49)": 14693,
+  "Smoking (15-49)": 19737,
+  "Drug Use (15-49)": 2820
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8072"
+  },
+  "Country": "Brazil",
+  "Year": 1992,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18858,
+  "Alcohol (15-49)": 24911,
+  "High BMI (15-49)": 15076,
+  "Smoking (15-49)": 19927,
+  "Drug Use (15-49)": 3305
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8073"
+  },
+  "Country": "Brazil",
+  "Year": 1993,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19367,
+  "Alcohol (15-49)": 26217,
+  "High BMI (15-49)": 15807,
+  "Smoking (15-49)": 20547,
+  "Drug Use (15-49)": 3911
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8074"
+  },
+  "Country": "Brazil",
+  "Year": 1994,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19461,
+  "Alcohol (15-49)": 27233,
+  "High BMI (15-49)": 16188,
+  "Smoking (15-49)": 20684,
+  "Drug Use (15-49)": 4508
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8075"
+  },
+  "Country": "Brazil",
+  "Year": 1995,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19486,
+  "Alcohol (15-49)": 28420,
+  "High BMI (15-49)": 16506,
+  "Smoking (15-49)": 20793,
+  "Drug Use (15-49)": 4954
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8076"
+  },
+  "Country": "Brazil",
+  "Year": 1996,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19705,
+  "Alcohol (15-49)": 29382,
+  "High BMI (15-49)": 16928,
+  "Smoking (15-49)": 21013,
+  "Drug Use (15-49)": 4829
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8077"
+  },
+  "Country": "Brazil",
+  "Year": 1997,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19506,
+  "Alcohol (15-49)": 30057,
+  "High BMI (15-49)": 16994,
+  "Smoking (15-49)": 20715,
+  "Drug Use (15-49)": 4000
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8078"
+  },
+  "Country": "Brazil",
+  "Year": 1998,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19638,
+  "Alcohol (15-49)": 30766,
+  "High BMI (15-49)": 17334,
+  "Smoking (15-49)": 20686,
+  "Drug Use (15-49)": 3554
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8079"
+  },
+  "Country": "Brazil",
+  "Year": 1999,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19609,
+  "Alcohol (15-49)": 31229,
+  "High BMI (15-49)": 17541,
+  "Smoking (15-49)": 20470,
+  "Drug Use (15-49)": 3330
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d807a"
+  },
+  "Country": "Brazil",
+  "Year": 2000,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19419,
+  "Alcohol (15-49)": 31724,
+  "High BMI (15-49)": 17561,
+  "Smoking (15-49)": 20098,
+  "Drug Use (15-49)": 3335
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d807b"
+  },
+  "Country": "Brazil",
+  "Year": 2001,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19312,
+  "Alcohol (15-49)": 32215,
+  "High BMI (15-49)": 17665,
+  "Smoking (15-49)": 19767,
+  "Drug Use (15-49)": 3355
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d807c"
+  },
+  "Country": "Brazil",
+  "Year": 2002,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19169,
+  "Alcohol (15-49)": 32716,
+  "High BMI (15-49)": 17745,
+  "Smoking (15-49)": 19369,
+  "Drug Use (15-49)": 3411
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d807d"
+  },
+  "Country": "Brazil",
+  "Year": 2003,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19079,
+  "Alcohol (15-49)": 32885,
+  "High BMI (15-49)": 17853,
+  "Smoking (15-49)": 18947,
+  "Drug Use (15-49)": 3518
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d807e"
+  },
+  "Country": "Brazil",
+  "Year": 2004,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 19101,
+  "Alcohol (15-49)": 32992,
+  "High BMI (15-49)": 18084,
+  "Smoking (15-49)": 18656,
+  "Drug Use (15-49)": 3500
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d807f"
+  },
+  "Country": "Brazil",
+  "Year": 2005,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18640,
+  "Alcohol (15-49)": 32585,
+  "High BMI (15-49)": 17885,
+  "Smoking (15-49)": 17865,
+  "Drug Use (15-49)": 3496
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8080"
+  },
+  "Country": "Brazil",
+  "Year": 2006,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18614,
+  "Alcohol (15-49)": 32682,
+  "High BMI (15-49)": 18132,
+  "Smoking (15-49)": 17523,
+  "Drug Use (15-49)": 3513
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8081"
+  },
+  "Country": "Brazil",
+  "Year": 2007,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18561,
+  "Alcohol (15-49)": 32755,
+  "High BMI (15-49)": 18368,
+  "Smoking (15-49)": 17099,
+  "Drug Use (15-49)": 3625
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8082"
+  },
+  "Country": "Brazil",
+  "Year": 2008,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18645,
+  "Alcohol (15-49)": 33011,
+  "High BMI (15-49)": 18722,
+  "Smoking (15-49)": 16800,
+  "Drug Use (15-49)": 3737
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8083"
+  },
+  "Country": "Brazil",
+  "Year": 2009,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18607,
+  "Alcohol (15-49)": 33152,
+  "High BMI (15-49)": 18953,
+  "Smoking (15-49)": 16424,
+  "Drug Use (15-49)": 3820
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8084"
+  },
+  "Country": "Brazil",
+  "Year": 2010,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18423,
+  "Alcohol (15-49)": 33090,
+  "High BMI (15-49)": 18949,
+  "Smoking (15-49)": 15850,
+  "Drug Use (15-49)": 3901
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8085"
+  },
+  "Country": "Brazil",
+  "Year": 2011,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18363,
+  "Alcohol (15-49)": 33071,
+  "High BMI (15-49)": 19073,
+  "Smoking (15-49)": 15392,
+  "Drug Use (15-49)": 3963
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8086"
+  },
+  "Country": "Brazil",
+  "Year": 2012,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 18043,
+  "Alcohol (15-49)": 32840,
+  "High BMI (15-49)": 18930,
+  "Smoking (15-49)": 14729,
+  "Drug Use (15-49)": 3983
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8087"
+  },
+  "Country": "Brazil",
+  "Year": 2013,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 17873,
+  "Alcohol (15-49)": 32528,
+  "High BMI (15-49)": 18916,
+  "Smoking (15-49)": 14167,
+  "Drug Use (15-49)": 4074
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8088"
+  },
+  "Country": "Brazil",
+  "Year": 2014,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 17474,
+  "Alcohol (15-49)": 32078,
+  "High BMI (15-49)": 18645,
+  "Smoking (15-49)": 13405,
+  "Drug Use (15-49)": 4080
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8089"
+  },
+  "Country": "Brazil",
+  "Year": 2015,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 17240,
+  "Alcohol (15-49)": 31430,
+  "High BMI (15-49)": 18540,
+  "Smoking (15-49)": 12833,
+  "Drug Use (15-49)": 4068
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d808a"
+  },
+  "Country": "Brazil",
+  "Year": 2016,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 17431,
+  "Alcohol (15-49)": 31431,
+  "High BMI (15-49)": 18863,
+  "Smoking (15-49)": 12584,
+  "Drug Use (15-49)": 4088
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d808b"
+  },
+  "Country": "Brazil",
+  "Year": 2017,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 16928,
+  "Alcohol (15-49)": 30718,
+  "High BMI (15-49)": 18380,
+  "Smoking (15-49)": 11785,
+  "Drug Use (15-49)": 4096
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d808c"
+  },
+  "Country": "Brazil",
+  "Year": 2018,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 17191,
+  "Alcohol (15-49)": 30820,
+  "High BMI (15-49)": 18694,
+  "Smoking (15-49)": 11556,
+  "Drug Use (15-49)": 4082
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d808d"
+  },
+  "Country": "Brazil",
+  "Year": 2019,
+  "Code": "BRA",
+  "High Blood Pressure (15-49)": 17478,
+  "Alcohol (15-49)": 30976,
+  "High BMI (15-49)": 19019,
+  "Smoking (15-49)": 11353,
+  "Drug Use (15-49)": 4066
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d808e"
+  },
+  "Country": "England",
+  "Year": 1990,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 3535,
+  "Alcohol (15-49)": 3132,
+  "High BMI (15-49)": 2197,
+  "Smoking (15-49)": 4744,
+  "Drug Use (15-49)": 802
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d808f"
+  },
+  "Country": "England",
+  "Year": 1991,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 3465,
+  "Alcohol (15-49)": 3173,
+  "High BMI (15-49)": 2190,
+  "Smoking (15-49)": 4664,
+  "Drug Use (15-49)": 851
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8090"
+  },
+  "Country": "England",
+  "Year": 1992,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 3401,
+  "Alcohol (15-49)": 3193,
+  "High BMI (15-49)": 2184,
+  "Smoking (15-49)": 4608,
+  "Drug Use (15-49)": 902
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8091"
+  },
+  "Country": "England",
+  "Year": 1993,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 3332,
+  "Alcohol (15-49)": 3261,
+  "High BMI (15-49)": 2176,
+  "Smoking (15-49)": 4553,
+  "Drug Use (15-49)": 960
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8092"
+  },
+  "Country": "England",
+  "Year": 1994,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 3224,
+  "Alcohol (15-49)": 3335,
+  "High BMI (15-49)": 2142,
+  "Smoking (15-49)": 4443,
+  "Drug Use (15-49)": 1050
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8093"
+  },
+  "Country": "England",
+  "Year": 1995,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 3213,
+  "Alcohol (15-49)": 3463,
+  "High BMI (15-49)": 2169,
+  "Smoking (15-49)": 4440,
+  "Drug Use (15-49)": 1148
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8094"
+  },
+  "Country": "England",
+  "Year": 1996,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 3142,
+  "Alcohol (15-49)": 3566,
+  "High BMI (15-49)": 2163,
+  "Smoking (15-49)": 4368,
+  "Drug Use (15-49)": 1252
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8095"
+  },
+  "Country": "England",
+  "Year": 1997,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2949,
+  "Alcohol (15-49)": 3600,
+  "High BMI (15-49)": 2079,
+  "Smoking (15-49)": 4138,
+  "Drug Use (15-49)": 1378
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8096"
+  },
+  "Country": "England",
+  "Year": 1998,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2823,
+  "Alcohol (15-49)": 3673,
+  "High BMI (15-49)": 2039,
+  "Smoking (15-49)": 3986,
+  "Drug Use (15-49)": 1529
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8097"
+  },
+  "Country": "England",
+  "Year": 1999,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2695,
+  "Alcohol (15-49)": 3718,
+  "High BMI (15-49)": 1998,
+  "Smoking (15-49)": 3857,
+  "Drug Use (15-49)": 1656
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8098"
+  },
+  "Country": "England",
+  "Year": 2000,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2596,
+  "Alcohol (15-49)": 3765,
+  "High BMI (15-49)": 1970,
+  "Smoking (15-49)": 3746,
+  "Drug Use (15-49)": 1693
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8099"
+  },
+  "Country": "England",
+  "Year": 2001,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2555,
+  "Alcohol (15-49)": 3869,
+  "High BMI (15-49)": 1982,
+  "Smoking (15-49)": 3690,
+  "Drug Use (15-49)": 1723
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d809a"
+  },
+  "Country": "England",
+  "Year": 2002,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2493,
+  "Alcohol (15-49)": 3944,
+  "High BMI (15-49)": 1993,
+  "Smoking (15-49)": 3639,
+  "Drug Use (15-49)": 1711
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d809b"
+  },
+  "Country": "England",
+  "Year": 2003,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2392,
+  "Alcohol (15-49)": 3978,
+  "High BMI (15-49)": 1971,
+  "Smoking (15-49)": 3558,
+  "Drug Use (15-49)": 1696
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d809c"
+  },
+  "Country": "England",
+  "Year": 2004,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2260,
+  "Alcohol (15-49)": 3946,
+  "High BMI (15-49)": 1914,
+  "Smoking (15-49)": 3426,
+  "Drug Use (15-49)": 1698
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d809d"
+  },
+  "Country": "England",
+  "Year": 2005,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2191,
+  "Alcohol (15-49)": 3971,
+  "High BMI (15-49)": 1895,
+  "Smoking (15-49)": 3362,
+  "Drug Use (15-49)": 1728
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d809e"
+  },
+  "Country": "England",
+  "Year": 2006,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2142,
+  "Alcohol (15-49)": 4048,
+  "High BMI (15-49)": 1890,
+  "Smoking (15-49)": 3326,
+  "Drug Use (15-49)": 1797
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d809f"
+  },
+  "Country": "England",
+  "Year": 2007,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2069,
+  "Alcohol (15-49)": 4062,
+  "High BMI (15-49)": 1867,
+  "Smoking (15-49)": 3259,
+  "Drug Use (15-49)": 1865
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a0"
+  },
+  "Country": "England",
+  "Year": 2008,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 2045,
+  "Alcohol (15-49)": 4096,
+  "High BMI (15-49)": 1882,
+  "Smoking (15-49)": 3246,
+  "Drug Use (15-49)": 1934
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a1"
+  },
+  "Country": "England",
+  "Year": 2009,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1969,
+  "Alcohol (15-49)": 4031,
+  "High BMI (15-49)": 1839,
+  "Smoking (15-49)": 3144,
+  "Drug Use (15-49)": 1913
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a2"
+  },
+  "Country": "England",
+  "Year": 2010,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1883,
+  "Alcohol (15-49)": 3898,
+  "High BMI (15-49)": 1781,
+  "Smoking (15-49)": 3018,
+  "Drug Use (15-49)": 1856
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a3"
+  },
+  "Country": "England",
+  "Year": 2011,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1787,
+  "Alcohol (15-49)": 3758,
+  "High BMI (15-49)": 1708,
+  "Smoking (15-49)": 2867,
+  "Drug Use (15-49)": 1777
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a4"
+  },
+  "Country": "England",
+  "Year": 2012,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1714,
+  "Alcohol (15-49)": 3635,
+  "High BMI (15-49)": 1653,
+  "Smoking (15-49)": 2726,
+  "Drug Use (15-49)": 1740
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a5"
+  },
+  "Country": "England",
+  "Year": 2013,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1714,
+  "Alcohol (15-49)": 3628,
+  "High BMI (15-49)": 1667,
+  "Smoking (15-49)": 2672,
+  "Drug Use (15-49)": 1793
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a6"
+  },
+  "Country": "England",
+  "Year": 2014,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1702,
+  "Alcohol (15-49)": 3602,
+  "High BMI (15-49)": 1666,
+  "Smoking (15-49)": 2592,
+  "Drug Use (15-49)": 1826
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a7"
+  },
+  "Country": "England",
+  "Year": 2015,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1694,
+  "Alcohol (15-49)": 3579,
+  "High BMI (15-49)": 1662,
+  "Smoking (15-49)": 2529,
+  "Drug Use (15-49)": 1855
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a8"
+  },
+  "Country": "England",
+  "Year": 2016,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1704,
+  "Alcohol (15-49)": 3577,
+  "High BMI (15-49)": 1672,
+  "Smoking (15-49)": 2490,
+  "Drug Use (15-49)": 1858
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80a9"
+  },
+  "Country": "England",
+  "Year": 2017,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1701,
+  "Alcohol (15-49)": 3557,
+  "High BMI (15-49)": 1663,
+  "Smoking (15-49)": 2423,
+  "Drug Use (15-49)": 1818
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80aa"
+  },
+  "Country": "England",
+  "Year": 2018,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1683,
+  "Alcohol (15-49)": 3520,
+  "High BMI (15-49)": 1639,
+  "Smoking (15-49)": 2355,
+  "Drug Use (15-49)": 1738
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ab"
+  },
+  "Country": "England",
+  "Year": 2019,
+  "Code": "ENG",
+  "High Blood Pressure (15-49)": 1666,
+  "Alcohol (15-49)": 3502,
+  "High BMI (15-49)": 1617,
+  "Smoking (15-49)": 2276,
+  "Drug Use (15-49)": 1702
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ac"
+  },
+  "Country": "Ghana",
+  "Year": 1990,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1369,
+  "Alcohol (15-49)": 1859,
+  "High BMI (15-49)": 675,
+  "Smoking (15-49)": 492,
+  "Drug Use (15-49)": 74
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ad"
+  },
+  "Country": "Ghana",
+  "Year": 1991,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1419,
+  "Alcohol (15-49)": 1916,
+  "High BMI (15-49)": 732,
+  "Smoking (15-49)": 484,
+  "Drug Use (15-49)": 97
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ae"
+  },
+  "Country": "Ghana",
+  "Year": 1992,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1479,
+  "Alcohol (15-49)": 1970,
+  "High BMI (15-49)": 796,
+  "Smoking (15-49)": 479,
+  "Drug Use (15-49)": 127
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80af"
+  },
+  "Country": "Ghana",
+  "Year": 1993,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1521,
+  "Alcohol (15-49)": 2002,
+  "High BMI (15-49)": 852,
+  "Smoking (15-49)": 468,
+  "Drug Use (15-49)": 163
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b0"
+  },
+  "Country": "Ghana",
+  "Year": 1994,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1575,
+  "Alcohol (15-49)": 2214,
+  "High BMI (15-49)": 918,
+  "Smoking (15-49)": 469,
+  "Drug Use (15-49)": 204
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b1"
+  },
+  "Country": "Ghana",
+  "Year": 1995,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1638,
+  "Alcohol (15-49)": 2158,
+  "High BMI (15-49)": 995,
+  "Smoking (15-49)": 473,
+  "Drug Use (15-49)": 251
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b2"
+  },
+  "Country": "Ghana",
+  "Year": 1996,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1728,
+  "Alcohol (15-49)": 2200,
+  "High BMI (15-49)": 1094,
+  "Smoking (15-49)": 478,
+  "Drug Use (15-49)": 295
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b3"
+  },
+  "Country": "Ghana",
+  "Year": 1997,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1850,
+  "Alcohol (15-49)": 2303,
+  "High BMI (15-49)": 1218,
+  "Smoking (15-49)": 494,
+  "Drug Use (15-49)": 329
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b4"
+  },
+  "Country": "Ghana",
+  "Year": 1998,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 1928,
+  "Alcohol (15-49)": 2353,
+  "High BMI (15-49)": 1315,
+  "Smoking (15-49)": 498,
+  "Drug Use (15-49)": 352
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b5"
+  },
+  "Country": "Ghana",
+  "Year": 1999,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2021,
+  "Alcohol (15-49)": 2441,
+  "High BMI (15-49)": 1422,
+  "Smoking (15-49)": 513,
+  "Drug Use (15-49)": 372
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b6"
+  },
+  "Country": "Ghana",
+  "Year": 2000,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2107,
+  "Alcohol (15-49)": 2505,
+  "High BMI (15-49)": 1523,
+  "Smoking (15-49)": 524,
+  "Drug Use (15-49)": 400
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b7"
+  },
+  "Country": "Ghana",
+  "Year": 2001,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2229,
+  "Alcohol (15-49)": 2595,
+  "High BMI (15-49)": 1657,
+  "Smoking (15-49)": 540,
+  "Drug Use (15-49)": 442
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b8"
+  },
+  "Country": "Ghana",
+  "Year": 2002,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2306,
+  "Alcohol (15-49)": 2662,
+  "High BMI (15-49)": 1760,
+  "Smoking (15-49)": 551,
+  "Drug Use (15-49)": 491
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80b9"
+  },
+  "Country": "Ghana",
+  "Year": 2003,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2382,
+  "Alcohol (15-49)": 2740,
+  "High BMI (15-49)": 1863,
+  "Smoking (15-49)": 566,
+  "Drug Use (15-49)": 540
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ba"
+  },
+  "Country": "Ghana",
+  "Year": 2004,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2447,
+  "Alcohol (15-49)": 2813,
+  "High BMI (15-49)": 1957,
+  "Smoking (15-49)": 579,
+  "Drug Use (15-49)": 577
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80bb"
+  },
+  "Country": "Ghana",
+  "Year": 2005,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2516,
+  "Alcohol (15-49)": 2872,
+  "High BMI (15-49)": 2055,
+  "Smoking (15-49)": 590,
+  "Drug Use (15-49)": 592
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80bc"
+  },
+  "Country": "Ghana",
+  "Year": 2006,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2573,
+  "Alcohol (15-49)": 2937,
+  "High BMI (15-49)": 2144,
+  "Smoking (15-49)": 606,
+  "Drug Use (15-49)": 589
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80bd"
+  },
+  "Country": "Ghana",
+  "Year": 2007,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2657,
+  "Alcohol (15-49)": 3000,
+  "High BMI (15-49)": 2264,
+  "Smoking (15-49)": 625,
+  "Drug Use (15-49)": 579
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80be"
+  },
+  "Country": "Ghana",
+  "Year": 2008,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2670,
+  "Alcohol (15-49)": 3026,
+  "High BMI (15-49)": 2307,
+  "Smoking (15-49)": 632,
+  "Drug Use (15-49)": 561
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80bf"
+  },
+  "Country": "Ghana",
+  "Year": 2009,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2718,
+  "Alcohol (15-49)": 3089,
+  "High BMI (15-49)": 2383,
+  "Smoking (15-49)": 649,
+  "Drug Use (15-49)": 538
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c0"
+  },
+  "Country": "Ghana",
+  "Year": 2010,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2760,
+  "Alcohol (15-49)": 3122,
+  "High BMI (15-49)": 2455,
+  "Smoking (15-49)": 659,
+  "Drug Use (15-49)": 516
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c1"
+  },
+  "Country": "Ghana",
+  "Year": 2011,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2782,
+  "Alcohol (15-49)": 3134,
+  "High BMI (15-49)": 2513,
+  "Smoking (15-49)": 667,
+  "Drug Use (15-49)": 486
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c2"
+  },
+  "Country": "Ghana",
+  "Year": 2012,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2773,
+  "Alcohol (15-49)": 3156,
+  "High BMI (15-49)": 2552,
+  "Smoking (15-49)": 680,
+  "Drug Use (15-49)": 464
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c3"
+  },
+  "Country": "Ghana",
+  "Year": 2013,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2772,
+  "Alcohol (15-49)": 3215,
+  "High BMI (15-49)": 2602,
+  "Smoking (15-49)": 703,
+  "Drug Use (15-49)": 466
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c4"
+  },
+  "Country": "Ghana",
+  "Year": 2014,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2803,
+  "Alcohol (15-49)": 3292,
+  "High BMI (15-49)": 2684,
+  "Smoking (15-49)": 728,
+  "Drug Use (15-49)": 472
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c5"
+  },
+  "Country": "Ghana",
+  "Year": 2015,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2851,
+  "Alcohol (15-49)": 3355,
+  "High BMI (15-49)": 2778,
+  "Smoking (15-49)": 752,
+  "Drug Use (15-49)": 472
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c6"
+  },
+  "Country": "Ghana",
+  "Year": 2016,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2936,
+  "Alcohol (15-49)": 3444,
+  "High BMI (15-49)": 2916,
+  "Smoking (15-49)": 773,
+  "Drug Use (15-49)": 471
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c7"
+  },
+  "Country": "Ghana",
+  "Year": 2017,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2994,
+  "Alcohol (15-49)": 3514,
+  "High BMI (15-49)": 3021,
+  "Smoking (15-49)": 783,
+  "Drug Use (15-49)": 469
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c8"
+  },
+  "Country": "Ghana",
+  "Year": 2018,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 2979,
+  "Alcohol (15-49)": 3485,
+  "High BMI (15-49)": 3037,
+  "Smoking (15-49)": 774,
+  "Drug Use (15-49)": 451
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80c9"
+  },
+  "Country": "Ghana",
+  "Year": 2019,
+  "Code": "GHA",
+  "High Blood Pressure (15-49)": 3001,
+  "Alcohol (15-49)": 3509,
+  "High BMI (15-49)": 3084,
+  "Smoking (15-49)": 776,
+  "Drug Use (15-49)": 437
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ca"
+  },
+  "Country": "Japan",
+  "Year": 1990,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 6744,
+  "Alcohol (15-49)": 9085,
+  "High BMI (15-49)": 2787,
+  "Smoking (15-49)": 8712,
+  "Drug Use (15-49)": 1493
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80cb"
+  },
+  "Country": "Japan",
+  "Year": 1991,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 6592,
+  "Alcohol (15-49)": 8980,
+  "High BMI (15-49)": 2743,
+  "Smoking (15-49)": 8569,
+  "Drug Use (15-49)": 1486
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80cc"
+  },
+  "Country": "Japan",
+  "Year": 1992,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 6518,
+  "Alcohol (15-49)": 8935,
+  "High BMI (15-49)": 2733,
+  "Smoking (15-49)": 8507,
+  "Drug Use (15-49)": 1491
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80cd"
+  },
+  "Country": "Japan",
+  "Year": 1993,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 6417,
+  "Alcohol (15-49)": 8876,
+  "High BMI (15-49)": 2711,
+  "Smoking (15-49)": 8412,
+  "Drug Use (15-49)": 1485
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ce"
+  },
+  "Country": "Japan",
+  "Year": 1994,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 6216,
+  "Alcohol (15-49)": 8689,
+  "High BMI (15-49)": 2647,
+  "Smoking (15-49)": 8171,
+  "Drug Use (15-49)": 1458
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80cf"
+  },
+  "Country": "Japan",
+  "Year": 1995,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 6315,
+  "Alcohol (15-49)": 8801,
+  "High BMI (15-49)": 2701,
+  "Smoking (15-49)": 8315,
+  "Drug Use (15-49)": 1485
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d0"
+  },
+  "Country": "Japan",
+  "Year": 1996,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 6310,
+  "Alcohol (15-49)": 8715,
+  "High BMI (15-49)": 2714,
+  "Smoking (15-49)": 8345,
+  "Drug Use (15-49)": 1494
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d1"
+  },
+  "Country": "Japan",
+  "Year": 1997,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 6019,
+  "Alcohol (15-49)": 8572,
+  "High BMI (15-49)": 2621,
+  "Smoking (15-49)": 8004,
+  "Drug Use (15-49)": 1465
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d2"
+  },
+  "Country": "Japan",
+  "Year": 1998,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 5836,
+  "Alcohol (15-49)": 8663,
+  "High BMI (15-49)": 2577,
+  "Smoking (15-49)": 7822,
+  "Drug Use (15-49)": 1458
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d3"
+  },
+  "Country": "Japan",
+  "Year": 1999,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 5505,
+  "Alcohol (15-49)": 8481,
+  "High BMI (15-49)": 2468,
+  "Smoking (15-49)": 7409,
+  "Drug Use (15-49)": 1428
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d4"
+  },
+  "Country": "Japan",
+  "Year": 2000,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 5077,
+  "Alcohol (15-49)": 8054,
+  "High BMI (15-49)": 2308,
+  "Smoking (15-49)": 6880,
+  "Drug Use (15-49)": 1352
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d5"
+  },
+  "Country": "Japan",
+  "Year": 2001,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 4775,
+  "Alcohol (15-49)": 7756,
+  "High BMI (15-49)": 2203,
+  "Smoking (15-49)": 6495,
+  "Drug Use (15-49)": 1305
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d6"
+  },
+  "Country": "Japan",
+  "Year": 2002,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 4510,
+  "Alcohol (15-49)": 7542,
+  "High BMI (15-49)": 2126,
+  "Smoking (15-49)": 6216,
+  "Drug Use (15-49)": 1276
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d7"
+  },
+  "Country": "Japan",
+  "Year": 2003,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 4363,
+  "Alcohol (15-49)": 7539,
+  "High BMI (15-49)": 2108,
+  "Smoking (15-49)": 6128,
+  "Drug Use (15-49)": 1285
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d8"
+  },
+  "Country": "Japan",
+  "Year": 2004,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 4198,
+  "Alcohol (15-49)": 7401,
+  "High BMI (15-49)": 2072,
+  "Smoking (15-49)": 5988,
+  "Drug Use (15-49)": 1281
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80d9"
+  },
+  "Country": "Japan",
+  "Year": 2005,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 4107,
+  "Alcohol (15-49)": 7319,
+  "High BMI (15-49)": 2056,
+  "Smoking (15-49)": 5916,
+  "Drug Use (15-49)": 1282
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80da"
+  },
+  "Country": "Japan",
+  "Year": 2006,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3964,
+  "Alcohol (15-49)": 7084,
+  "High BMI (15-49)": 2003,
+  "Smoking (15-49)": 5744,
+  "Drug Use (15-49)": 1262
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80db"
+  },
+  "Country": "Japan",
+  "Year": 2007,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3889,
+  "Alcohol (15-49)": 6932,
+  "High BMI (15-49)": 1984,
+  "Smoking (15-49)": 5673,
+  "Drug Use (15-49)": 1260
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80dc"
+  },
+  "Country": "Japan",
+  "Year": 2008,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3804,
+  "Alcohol (15-49)": 6812,
+  "High BMI (15-49)": 1956,
+  "Smoking (15-49)": 5584,
+  "Drug Use (15-49)": 1260
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80dd"
+  },
+  "Country": "Japan",
+  "Year": 2009,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3765,
+  "Alcohol (15-49)": 6707,
+  "High BMI (15-49)": 1943,
+  "Smoking (15-49)": 5533,
+  "Drug Use (15-49)": 1262
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80de"
+  },
+  "Country": "Japan",
+  "Year": 2010,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3727,
+  "Alcohol (15-49)": 6562,
+  "High BMI (15-49)": 1923,
+  "Smoking (15-49)": 5459,
+  "Drug Use (15-49)": 1251
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80df"
+  },
+  "Country": "Japan",
+  "Year": 2011,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3665,
+  "Alcohol (15-49)": 6501,
+  "High BMI (15-49)": 1885,
+  "Smoking (15-49)": 5326,
+  "Drug Use (15-49)": 1229
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e0"
+  },
+  "Country": "Japan",
+  "Year": 2012,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3570,
+  "Alcohol (15-49)": 6099,
+  "High BMI (15-49)": 1823,
+  "Smoking (15-49)": 5139,
+  "Drug Use (15-49)": 1181
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e1"
+  },
+  "Country": "Japan",
+  "Year": 2013,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3512,
+  "Alcohol (15-49)": 5865,
+  "High BMI (15-49)": 1778,
+  "Smoking (15-49)": 4984,
+  "Drug Use (15-49)": 1140
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e2"
+  },
+  "Country": "Japan",
+  "Year": 2014,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3431,
+  "Alcohol (15-49)": 5642,
+  "High BMI (15-49)": 1729,
+  "Smoking (15-49)": 4797,
+  "Drug Use (15-49)": 1104
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e3"
+  },
+  "Country": "Japan",
+  "Year": 2015,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3338,
+  "Alcohol (15-49)": 5372,
+  "High BMI (15-49)": 1672,
+  "Smoking (15-49)": 4589,
+  "Drug Use (15-49)": 1059
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e4"
+  },
+  "Country": "Japan",
+  "Year": 2016,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3340,
+  "Alcohol (15-49)": 5262,
+  "High BMI (15-49)": 1668,
+  "Smoking (15-49)": 4502,
+  "Drug Use (15-49)": 1051
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e5"
+  },
+  "Country": "Japan",
+  "Year": 2017,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3259,
+  "Alcohol (15-49)": 5089,
+  "High BMI (15-49)": 1625,
+  "Smoking (15-49)": 4281,
+  "Drug Use (15-49)": 1028
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e6"
+  },
+  "Country": "Japan",
+  "Year": 2018,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3260,
+  "Alcohol (15-49)": 5136,
+  "High BMI (15-49)": 1632,
+  "Smoking (15-49)": 4211,
+  "Drug Use (15-49)": 1040
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e7"
+  },
+  "Country": "Japan",
+  "Year": 2019,
+  "Code": "JPN",
+  "High Blood Pressure (15-49)": 3244,
+  "Alcohol (15-49)": 5132,
+  "High BMI (15-49)": 1632,
+  "Smoking (15-49)": 4105,
+  "Drug Use (15-49)": 1031
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e8"
+  },
+  "Country": "Mexico",
+  "Year": 1990,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 3675,
+  "Alcohol (15-49)": 13895,
+  "High BMI (15-49)": 5577,
+  "Smoking (15-49)": 3499,
+  "Drug Use (15-49)": 736
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80e9"
+  },
+  "Country": "Mexico",
+  "Year": 1991,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 3721,
+  "Alcohol (15-49)": 14073,
+  "High BMI (15-49)": 5681,
+  "Smoking (15-49)": 3455,
+  "Drug Use (15-49)": 762
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ea"
+  },
+  "Country": "Mexico",
+  "Year": 1992,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 3846,
+  "Alcohol (15-49)": 14360,
+  "High BMI (15-49)": 5886,
+  "Smoking (15-49)": 3493,
+  "Drug Use (15-49)": 801
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80eb"
+  },
+  "Country": "Mexico",
+  "Year": 1993,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4009,
+  "Alcohol (15-49)": 14596,
+  "High BMI (15-49)": 6170,
+  "Smoking (15-49)": 3537,
+  "Drug Use (15-49)": 861
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ec"
+  },
+  "Country": "Mexico",
+  "Year": 1994,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4118,
+  "Alcohol (15-49)": 14752,
+  "High BMI (15-49)": 6406,
+  "Smoking (15-49)": 3533,
+  "Drug Use (15-49)": 913
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ed"
+  },
+  "Country": "Mexico",
+  "Year": 1995,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4199,
+  "Alcohol (15-49)": 14611,
+  "High BMI (15-49)": 6586,
+  "Smoking (15-49)": 3489,
+  "Drug Use (15-49)": 960
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ee"
+  },
+  "Country": "Mexico",
+  "Year": 1996,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4233,
+  "Alcohol (15-49)": 14388,
+  "High BMI (15-49)": 6653,
+  "Smoking (15-49)": 3429,
+  "Drug Use (15-49)": 999
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ef"
+  },
+  "Country": "Mexico",
+  "Year": 1997,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4439,
+  "Alcohol (15-49)": 14583,
+  "High BMI (15-49)": 6967,
+  "Smoking (15-49)": 3478,
+  "Drug Use (15-49)": 1077
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f0"
+  },
+  "Country": "Mexico",
+  "Year": 1998,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4661,
+  "Alcohol (15-49)": 14756,
+  "High BMI (15-49)": 7223,
+  "Smoking (15-49)": 3479,
+  "Drug Use (15-49)": 1152
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f1"
+  },
+  "Country": "Mexico",
+  "Year": 1999,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4714,
+  "Alcohol (15-49)": 14303,
+  "High BMI (15-49)": 7291,
+  "Smoking (15-49)": 3382,
+  "Drug Use (15-49)": 1182
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f2"
+  },
+  "Country": "Mexico",
+  "Year": 2000,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4763,
+  "Alcohol (15-49)": 14008,
+  "High BMI (15-49)": 7351,
+  "Smoking (15-49)": 3300,
+  "Drug Use (15-49)": 1201
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f3"
+  },
+  "Country": "Mexico",
+  "Year": 2001,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 4822,
+  "Alcohol (15-49)": 13652,
+  "High BMI (15-49)": 7472,
+  "Smoking (15-49)": 3226,
+  "Drug Use (15-49)": 1201
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f4"
+  },
+  "Country": "Mexico",
+  "Year": 2002,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 5022,
+  "Alcohol (15-49)": 13681,
+  "High BMI (15-49)": 7846,
+  "Smoking (15-49)": 3256,
+  "Drug Use (15-49)": 1222
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f5"
+  },
+  "Country": "Mexico",
+  "Year": 2003,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 5208,
+  "Alcohol (15-49)": 13753,
+  "High BMI (15-49)": 8186,
+  "Smoking (15-49)": 3296,
+  "Drug Use (15-49)": 1253
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f6"
+  },
+  "Country": "Mexico",
+  "Year": 2004,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 5220,
+  "Alcohol (15-49)": 13405,
+  "High BMI (15-49)": 8268,
+  "Smoking (15-49)": 3209,
+  "Drug Use (15-49)": 1249
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f7"
+  },
+  "Country": "Mexico",
+  "Year": 2005,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 5475,
+  "Alcohol (15-49)": 13675,
+  "High BMI (15-49)": 8731,
+  "Smoking (15-49)": 3290,
+  "Drug Use (15-49)": 1289
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f8"
+  },
+  "Country": "Mexico",
+  "Year": 2006,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 5560,
+  "Alcohol (15-49)": 13499,
+  "High BMI (15-49)": 8829,
+  "Smoking (15-49)": 3230,
+  "Drug Use (15-49)": 1278
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80f9"
+  },
+  "Country": "Mexico",
+  "Year": 2007,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 5725,
+  "Alcohol (15-49)": 13532,
+  "High BMI (15-49)": 9065,
+  "Smoking (15-49)": 3210,
+  "Drug Use (15-49)": 1303
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80fa"
+  },
+  "Country": "Mexico",
+  "Year": 2008,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 6099,
+  "Alcohol (15-49)": 14275,
+  "High BMI (15-49)": 9693,
+  "Smoking (15-49)": 3322,
+  "Drug Use (15-49)": 1363
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80fb"
+  },
+  "Country": "Mexico",
+  "Year": 2009,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 6360,
+  "Alcohol (15-49)": 14724,
+  "High BMI (15-49)": 10238,
+  "Smoking (15-49)": 3366,
+  "Drug Use (15-49)": 1378
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80fc"
+  },
+  "Country": "Mexico",
+  "Year": 2010,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 6238,
+  "Alcohol (15-49)": 14685,
+  "High BMI (15-49)": 10074,
+  "Smoking (15-49)": 3201,
+  "Drug Use (15-49)": 1353
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80fd"
+  },
+  "Country": "Mexico",
+  "Year": 2011,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 6230,
+  "Alcohol (15-49)": 14682,
+  "High BMI (15-49)": 10102,
+  "Smoking (15-49)": 3096,
+  "Drug Use (15-49)": 1347
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80fe"
+  },
+  "Country": "Mexico",
+  "Year": 2012,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 6378,
+  "Alcohol (15-49)": 14720,
+  "High BMI (15-49)": 10420,
+  "Smoking (15-49)": 3054,
+  "Drug Use (15-49)": 1354
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d80ff"
+  },
+  "Country": "Mexico",
+  "Year": 2013,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 6848,
+  "Alcohol (15-49)": 15259,
+  "High BMI (15-49)": 11228,
+  "Smoking (15-49)": 3174,
+  "Drug Use (15-49)": 1427
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8100"
+  },
+  "Country": "Mexico",
+  "Year": 2014,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 7102,
+  "Alcohol (15-49)": 15399,
+  "High BMI (15-49)": 11714,
+  "Smoking (15-49)": 3198,
+  "Drug Use (15-49)": 1455
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8101"
+  },
+  "Country": "Mexico",
+  "Year": 2015,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 7312,
+  "Alcohol (15-49)": 15743,
+  "High BMI (15-49)": 12018,
+  "Smoking (15-49)": 3164,
+  "Drug Use (15-49)": 1497
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8102"
+  },
+  "Country": "Mexico",
+  "Year": 2016,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 7726,
+  "Alcohol (15-49)": 16736,
+  "High BMI (15-49)": 12722,
+  "Smoking (15-49)": 3246,
+  "Drug Use (15-49)": 1586
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8103"
+  },
+  "Country": "Mexico",
+  "Year": 2017,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 8297,
+  "Alcohol (15-49)": 18481,
+  "High BMI (15-49)": 13633,
+  "Smoking (15-49)": 3404,
+  "Drug Use (15-49)": 1718
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8104"
+  },
+  "Country": "Mexico",
+  "Year": 2018,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 8425,
+  "Alcohol (15-49)": 18977,
+  "High BMI (15-49)": 13850,
+  "Smoking (15-49)": 3375,
+  "Drug Use (15-49)": 1812
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8105"
+  },
+  "Country": "Mexico",
+  "Year": 2019,
+  "Code": "MEX",
+  "High Blood Pressure (15-49)": 8278,
+  "Alcohol (15-49)": 18608,
+  "High BMI (15-49)": 13645,
+  "Smoking (15-49)": 3243,
+  "Drug Use (15-49)": 1829
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8106"
+  },
+  "Country": "Morocco",
+  "Year": 1990,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 3647,
+  "Alcohol (15-49)": 587,
+  "High BMI (15-49)": 2208,
+  "Smoking (15-49)": 1933,
+  "Drug Use (15-49)": 158
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8107"
+  },
+  "Country": "Morocco",
+  "Year": 1991,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 3777,
+  "Alcohol (15-49)": 585,
+  "High BMI (15-49)": 2314,
+  "Smoking (15-49)": 1988,
+  "Drug Use (15-49)": 170
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8108"
+  },
+  "Country": "Morocco",
+  "Year": 1992,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 3920,
+  "Alcohol (15-49)": 602,
+  "High BMI (15-49)": 2438,
+  "Smoking (15-49)": 2012,
+  "Drug Use (15-49)": 188
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8109"
+  },
+  "Country": "Morocco",
+  "Year": 1993,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4116,
+  "Alcohol (15-49)": 609,
+  "High BMI (15-49)": 2589,
+  "Smoking (15-49)": 2088,
+  "Drug Use (15-49)": 205
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d810a"
+  },
+  "Country": "Morocco",
+  "Year": 1994,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4200,
+  "Alcohol (15-49)": 598,
+  "High BMI (15-49)": 2672,
+  "Smoking (15-49)": 2085,
+  "Drug Use (15-49)": 219
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d810b"
+  },
+  "Country": "Morocco",
+  "Year": 1995,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4295,
+  "Alcohol (15-49)": 601,
+  "High BMI (15-49)": 2760,
+  "Smoking (15-49)": 2104,
+  "Drug Use (15-49)": 235
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d810c"
+  },
+  "Country": "Morocco",
+  "Year": 1996,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4389,
+  "Alcohol (15-49)": 592,
+  "High BMI (15-49)": 2845,
+  "Smoking (15-49)": 2128,
+  "Drug Use (15-49)": 252
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d810d"
+  },
+  "Country": "Morocco",
+  "Year": 1997,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4520,
+  "Alcohol (15-49)": 592,
+  "High BMI (15-49)": 2957,
+  "Smoking (15-49)": 2150,
+  "Drug Use (15-49)": 272
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d810e"
+  },
+  "Country": "Morocco",
+  "Year": 1998,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4545,
+  "Alcohol (15-49)": 593,
+  "High BMI (15-49)": 2991,
+  "Smoking (15-49)": 2160,
+  "Drug Use (15-49)": 290
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d810f"
+  },
+  "Country": "Morocco",
+  "Year": 1999,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4683,
+  "Alcohol (15-49)": 599,
+  "High BMI (15-49)": 3108,
+  "Smoking (15-49)": 2190,
+  "Drug Use (15-49)": 313
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8110"
+  },
+  "Country": "Morocco",
+  "Year": 2000,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4741,
+  "Alcohol (15-49)": 600,
+  "High BMI (15-49)": 3166,
+  "Smoking (15-49)": 2207,
+  "Drug Use (15-49)": 334
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8111"
+  },
+  "Country": "Morocco",
+  "Year": 2001,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4827,
+  "Alcohol (15-49)": 605,
+  "High BMI (15-49)": 3253,
+  "Smoking (15-49)": 2231,
+  "Drug Use (15-49)": 357
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8112"
+  },
+  "Country": "Morocco",
+  "Year": 2002,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4832,
+  "Alcohol (15-49)": 600,
+  "High BMI (15-49)": 3300,
+  "Smoking (15-49)": 2178,
+  "Drug Use (15-49)": 378
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8113"
+  },
+  "Country": "Morocco",
+  "Year": 2003,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4907,
+  "Alcohol (15-49)": 606,
+  "High BMI (15-49)": 3393,
+  "Smoking (15-49)": 2207,
+  "Drug Use (15-49)": 400
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8114"
+  },
+  "Country": "Morocco",
+  "Year": 2004,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4953,
+  "Alcohol (15-49)": 613,
+  "High BMI (15-49)": 3466,
+  "Smoking (15-49)": 2221,
+  "Drug Use (15-49)": 410
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8115"
+  },
+  "Country": "Morocco",
+  "Year": 2005,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 5006,
+  "Alcohol (15-49)": 608,
+  "High BMI (15-49)": 3543,
+  "Smoking (15-49)": 2236,
+  "Drug Use (15-49)": 417
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8116"
+  },
+  "Country": "Morocco",
+  "Year": 2006,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 5048,
+  "Alcohol (15-49)": 605,
+  "High BMI (15-49)": 3617,
+  "Smoking (15-49)": 2240,
+  "Drug Use (15-49)": 431
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8117"
+  },
+  "Country": "Morocco",
+  "Year": 2007,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 5121,
+  "Alcohol (15-49)": 605,
+  "High BMI (15-49)": 3720,
+  "Smoking (15-49)": 2253,
+  "Drug Use (15-49)": 454
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8118"
+  },
+  "Country": "Morocco",
+  "Year": 2008,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 5145,
+  "Alcohol (15-49)": 601,
+  "High BMI (15-49)": 3789,
+  "Smoking (15-49)": 2252,
+  "Drug Use (15-49)": 475
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8119"
+  },
+  "Country": "Morocco",
+  "Year": 2009,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 5143,
+  "Alcohol (15-49)": 593,
+  "High BMI (15-49)": 3836,
+  "Smoking (15-49)": 2242,
+  "Drug Use (15-49)": 491
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d811a"
+  },
+  "Country": "Morocco",
+  "Year": 2010,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 5138,
+  "Alcohol (15-49)": 584,
+  "High BMI (15-49)": 3877,
+  "Smoking (15-49)": 2223,
+  "Drug Use (15-49)": 509
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d811b"
+  },
+  "Country": "Morocco",
+  "Year": 2011,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 5126,
+  "Alcohol (15-49)": 572,
+  "High BMI (15-49)": 3906,
+  "Smoking (15-49)": 2200,
+  "Drug Use (15-49)": 528
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d811c"
+  },
+  "Country": "Morocco",
+  "Year": 2012,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 5115,
+  "Alcohol (15-49)": 551,
+  "High BMI (15-49)": 3936,
+  "Smoking (15-49)": 2178,
+  "Drug Use (15-49)": 538
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d811d"
+  },
+  "Country": "Morocco",
+  "Year": 2013,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4921,
+  "Alcohol (15-49)": 472,
+  "High BMI (15-49)": 3832,
+  "Smoking (15-49)": 2075,
+  "Drug Use (15-49)": 508
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d811e"
+  },
+  "Country": "Morocco",
+  "Year": 2014,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4912,
+  "Alcohol (15-49)": 454,
+  "High BMI (15-49)": 3859,
+  "Smoking (15-49)": 2054,
+  "Drug Use (15-49)": 503
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d811f"
+  },
+  "Country": "Morocco",
+  "Year": 2015,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4903,
+  "Alcohol (15-49)": 438,
+  "High BMI (15-49)": 3882,
+  "Smoking (15-49)": 2035,
+  "Drug Use (15-49)": 499
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8120"
+  },
+  "Country": "Morocco",
+  "Year": 2016,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4888,
+  "Alcohol (15-49)": 423,
+  "High BMI (15-49)": 3896,
+  "Smoking (15-49)": 2015,
+  "Drug Use (15-49)": 496
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8121"
+  },
+  "Country": "Morocco",
+  "Year": 2017,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4865,
+  "Alcohol (15-49)": 412,
+  "High BMI (15-49)": 3899,
+  "Smoking (15-49)": 1994,
+  "Drug Use (15-49)": 491
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8122"
+  },
+  "Country": "Morocco",
+  "Year": 2018,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4834,
+  "Alcohol (15-49)": 405,
+  "High BMI (15-49)": 3893,
+  "Smoking (15-49)": 1973,
+  "Drug Use (15-49)": 485
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8123"
+  },
+  "Country": "Morocco",
+  "Year": 2019,
+  "Code": "MAR",
+  "High Blood Pressure (15-49)": 4814,
+  "Alcohol (15-49)": 401,
+  "High BMI (15-49)": 3897,
+  "Smoking (15-49)": 1960,
+  "Drug Use (15-49)": 481
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8124"
+  },
+  "Country": "Netherlands",
+  "Year": 1990,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 774,
+  "Alcohol (15-49)": 970,
+  "High BMI (15-49)": 535,
+  "Smoking (15-49)": 1568,
+  "Drug Use (15-49)": 128
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8125"
+  },
+  "Country": "Netherlands",
+  "Year": 1991,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 757,
+  "Alcohol (15-49)": 988,
+  "High BMI (15-49)": 540,
+  "Smoking (15-49)": 1561,
+  "Drug Use (15-49)": 136
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8126"
+  },
+  "Country": "Netherlands",
+  "Year": 1992,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 756,
+  "Alcohol (15-49)": 1012,
+  "High BMI (15-49)": 556,
+  "Smoking (15-49)": 1589,
+  "Drug Use (15-49)": 144
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8127"
+  },
+  "Country": "Netherlands",
+  "Year": 1993,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 771,
+  "Alcohol (15-49)": 1037,
+  "High BMI (15-49)": 581,
+  "Smoking (15-49)": 1639,
+  "Drug Use (15-49)": 150
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8128"
+  },
+  "Country": "Netherlands",
+  "Year": 1994,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 757,
+  "Alcohol (15-49)": 1040,
+  "High BMI (15-49)": 582,
+  "Smoking (15-49)": 1624,
+  "Drug Use (15-49)": 152
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8129"
+  },
+  "Country": "Netherlands",
+  "Year": 1995,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 758,
+  "Alcohol (15-49)": 1043,
+  "High BMI (15-49)": 589,
+  "Smoking (15-49)": 1621,
+  "Drug Use (15-49)": 154
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d812a"
+  },
+  "Country": "Netherlands",
+  "Year": 1996,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 765,
+  "Alcohol (15-49)": 1067,
+  "High BMI (15-49)": 598,
+  "Smoking (15-49)": 1623,
+  "Drug Use (15-49)": 157
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d812b"
+  },
+  "Country": "Netherlands",
+  "Year": 1997,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 750,
+  "Alcohol (15-49)": 1041,
+  "High BMI (15-49)": 583,
+  "Smoking (15-49)": 1553,
+  "Drug Use (15-49)": 155
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d812c"
+  },
+  "Country": "Netherlands",
+  "Year": 1998,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 748,
+  "Alcohol (15-49)": 1030,
+  "High BMI (15-49)": 577,
+  "Smoking (15-49)": 1513,
+  "Drug Use (15-49)": 157
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d812d"
+  },
+  "Country": "Netherlands",
+  "Year": 1999,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 762,
+  "Alcohol (15-49)": 1042,
+  "High BMI (15-49)": 587,
+  "Smoking (15-49)": 1507,
+  "Drug Use (15-49)": 164
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d812e"
+  },
+  "Country": "Netherlands",
+  "Year": 2000,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 765,
+  "Alcohol (15-49)": 1040,
+  "High BMI (15-49)": 589,
+  "Smoking (15-49)": 1480,
+  "Drug Use (15-49)": 173
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d812f"
+  },
+  "Country": "Netherlands",
+  "Year": 2001,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 745,
+  "Alcohol (15-49)": 1025,
+  "High BMI (15-49)": 579,
+  "Smoking (15-49)": 1422,
+  "Drug Use (15-49)": 174
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8130"
+  },
+  "Country": "Netherlands",
+  "Year": 2002,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 736,
+  "Alcohol (15-49)": 1012,
+  "High BMI (15-49)": 572,
+  "Smoking (15-49)": 1376,
+  "Drug Use (15-49)": 173
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8131"
+  },
+  "Country": "Netherlands",
+  "Year": 2003,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 734,
+  "Alcohol (15-49)": 989,
+  "High BMI (15-49)": 572,
+  "Smoking (15-49)": 1314,
+  "Drug Use (15-49)": 173
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8132"
+  },
+  "Country": "Netherlands",
+  "Year": 2004,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 663,
+  "Alcohol (15-49)": 920,
+  "High BMI (15-49)": 519,
+  "Smoking (15-49)": 1238,
+  "Drug Use (15-49)": 165
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8133"
+  },
+  "Country": "Netherlands",
+  "Year": 2005,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 613,
+  "Alcohol (15-49)": 866,
+  "High BMI (15-49)": 482,
+  "Smoking (15-49)": 1155,
+  "Drug Use (15-49)": 155
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8134"
+  },
+  "Country": "Netherlands",
+  "Year": 2006,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 566,
+  "Alcohol (15-49)": 815,
+  "High BMI (15-49)": 448,
+  "Smoking (15-49)": 1079,
+  "Drug Use (15-49)": 149
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8135"
+  },
+  "Country": "Netherlands",
+  "Year": 2007,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 527,
+  "Alcohol (15-49)": 772,
+  "High BMI (15-49)": 420,
+  "Smoking (15-49)": 1010,
+  "Drug Use (15-49)": 146
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8136"
+  },
+  "Country": "Netherlands",
+  "Year": 2008,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 505,
+  "Alcohol (15-49)": 754,
+  "High BMI (15-49)": 406,
+  "Smoking (15-49)": 969,
+  "Drug Use (15-49)": 150
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8137"
+  },
+  "Country": "Netherlands",
+  "Year": 2009,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 474,
+  "Alcohol (15-49)": 721,
+  "High BMI (15-49)": 384,
+  "Smoking (15-49)": 912,
+  "Drug Use (15-49)": 149
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8138"
+  },
+  "Country": "Netherlands",
+  "Year": 2010,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 450,
+  "Alcohol (15-49)": 700,
+  "High BMI (15-49)": 367,
+  "Smoking (15-49)": 866,
+  "Drug Use (15-49)": 145
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8139"
+  },
+  "Country": "Netherlands",
+  "Year": 2011,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 429,
+  "Alcohol (15-49)": 684,
+  "High BMI (15-49)": 354,
+  "Smoking (15-49)": 825,
+  "Drug Use (15-49)": 147
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d813a"
+  },
+  "Country": "Netherlands",
+  "Year": 2012,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 404,
+  "Alcohol (15-49)": 666,
+  "High BMI (15-49)": 337,
+  "Smoking (15-49)": 773,
+  "Drug Use (15-49)": 147
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d813b"
+  },
+  "Country": "Netherlands",
+  "Year": 2013,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 375,
+  "Alcohol (15-49)": 641,
+  "High BMI (15-49)": 315,
+  "Smoking (15-49)": 714,
+  "Drug Use (15-49)": 146
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d813c"
+  },
+  "Country": "Netherlands",
+  "Year": 2014,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 354,
+  "Alcohol (15-49)": 620,
+  "High BMI (15-49)": 301,
+  "Smoking (15-49)": 668,
+  "Drug Use (15-49)": 146
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d813d"
+  },
+  "Country": "Netherlands",
+  "Year": 2015,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 343,
+  "Alcohol (15-49)": 612,
+  "High BMI (15-49)": 293,
+  "Smoking (15-49)": 636,
+  "Drug Use (15-49)": 152
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d813e"
+  },
+  "Country": "Netherlands",
+  "Year": 2016,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 331,
+  "Alcohol (15-49)": 605,
+  "High BMI (15-49)": 287,
+  "Smoking (15-49)": 607,
+  "Drug Use (15-49)": 157
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d813f"
+  },
+  "Country": "Netherlands",
+  "Year": 2017,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 329,
+  "Alcohol (15-49)": 597,
+  "High BMI (15-49)": 286,
+  "Smoking (15-49)": 590,
+  "Drug Use (15-49)": 156
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8140"
+  },
+  "Country": "Netherlands",
+  "Year": 2018,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 329,
+  "Alcohol (15-49)": 599,
+  "High BMI (15-49)": 288,
+  "Smoking (15-49)": 581,
+  "Drug Use (15-49)": 157
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8141"
+  },
+  "Country": "Netherlands",
+  "Year": 2019,
+  "Code": "NLD",
+  "High Blood Pressure (15-49)": 324,
+  "Alcohol (15-49)": 594,
+  "High BMI (15-49)": 285,
+  "Smoking (15-49)": 561,
+  "Drug Use (15-49)": 160
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8142"
+  },
+  "Country": "South Korea",
+  "Year": 1990,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 4160,
+  "Alcohol (15-49)": 10435,
+  "High BMI (15-49)": 2207,
+  "Smoking (15-49)": 5767,
+  "Drug Use (15-49)": 486
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8143"
+  },
+  "Country": "South Korea",
+  "Year": 1991,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 4069,
+  "Alcohol (15-49)": 10197,
+  "High BMI (15-49)": 2120,
+  "Smoking (15-49)": 5485,
+  "Drug Use (15-49)": 500
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8144"
+  },
+  "Country": "South Korea",
+  "Year": 1992,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 3872,
+  "Alcohol (15-49)": 9905,
+  "High BMI (15-49)": 2004,
+  "Smoking (15-49)": 5128,
+  "Drug Use (15-49)": 514
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8145"
+  },
+  "Country": "South Korea",
+  "Year": 1993,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 3721,
+  "Alcohol (15-49)": 9796,
+  "High BMI (15-49)": 1934,
+  "Smoking (15-49)": 4896,
+  "Drug Use (15-49)": 531
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8146"
+  },
+  "Country": "South Korea",
+  "Year": 1994,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 3598,
+  "Alcohol (15-49)": 9846,
+  "High BMI (15-49)": 1902,
+  "Smoking (15-49)": 4778,
+  "Drug Use (15-49)": 560
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8147"
+  },
+  "Country": "South Korea",
+  "Year": 1995,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 3399,
+  "Alcohol (15-49)": 9802,
+  "High BMI (15-49)": 1850,
+  "Smoking (15-49)": 4592,
+  "Drug Use (15-49)": 591
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8148"
+  },
+  "Country": "South Korea",
+  "Year": 1996,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 3230,
+  "Alcohol (15-49)": 9744,
+  "High BMI (15-49)": 1837,
+  "Smoking (15-49)": 4483,
+  "Drug Use (15-49)": 607
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8149"
+  },
+  "Country": "South Korea",
+  "Year": 1997,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 3025,
+  "Alcohol (15-49)": 9470,
+  "High BMI (15-49)": 1817,
+  "Smoking (15-49)": 4332,
+  "Drug Use (15-49)": 610
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d814a"
+  },
+  "Country": "South Korea",
+  "Year": 1998,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 2831,
+  "Alcohol (15-49)": 9195,
+  "High BMI (15-49)": 1812,
+  "Smoking (15-49)": 4229,
+  "Drug Use (15-49)": 611
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d814b"
+  },
+  "Country": "South Korea",
+  "Year": 1999,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 2662,
+  "Alcohol (15-49)": 8843,
+  "High BMI (15-49)": 1817,
+  "Smoking (15-49)": 4156,
+  "Drug Use (15-49)": 597
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d814c"
+  },
+  "Country": "South Korea",
+  "Year": 2000,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 2538,
+  "Alcohol (15-49)": 8550,
+  "High BMI (15-49)": 1835,
+  "Smoking (15-49)": 4125,
+  "Drug Use (15-49)": 576
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d814d"
+  },
+  "Country": "South Korea",
+  "Year": 2001,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 2391,
+  "Alcohol (15-49)": 8170,
+  "High BMI (15-49)": 1821,
+  "Smoking (15-49)": 4040,
+  "Drug Use (15-49)": 558
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d814e"
+  },
+  "Country": "South Korea",
+  "Year": 2002,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 2250,
+  "Alcohol (15-49)": 7887,
+  "High BMI (15-49)": 1808,
+  "Smoking (15-49)": 3954,
+  "Drug Use (15-49)": 544
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d814f"
+  },
+  "Country": "South Korea",
+  "Year": 2003,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 2156,
+  "Alcohol (15-49)": 7773,
+  "High BMI (15-49)": 1823,
+  "Smoking (15-49)": 3939,
+  "Drug Use (15-49)": 541
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8150"
+  },
+  "Country": "South Korea",
+  "Year": 2004,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1992,
+  "Alcohol (15-49)": 7385,
+  "High BMI (15-49)": 1762,
+  "Smoking (15-49)": 3789,
+  "Drug Use (15-49)": 521
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8151"
+  },
+  "Country": "South Korea",
+  "Year": 2005,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1812,
+  "Alcohol (15-49)": 6952,
+  "High BMI (15-49)": 1664,
+  "Smoking (15-49)": 3548,
+  "Drug Use (15-49)": 491
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8152"
+  },
+  "Country": "South Korea",
+  "Year": 2006,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1657,
+  "Alcohol (15-49)": 6572,
+  "High BMI (15-49)": 1562,
+  "Smoking (15-49)": 3342,
+  "Drug Use (15-49)": 464
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8153"
+  },
+  "Country": "South Korea",
+  "Year": 2007,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1546,
+  "Alcohol (15-49)": 6406,
+  "High BMI (15-49)": 1499,
+  "Smoking (15-49)": 3177,
+  "Drug Use (15-49)": 449
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8154"
+  },
+  "Country": "South Korea",
+  "Year": 2008,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1469,
+  "Alcohol (15-49)": 6333,
+  "High BMI (15-49)": 1458,
+  "Smoking (15-49)": 3068,
+  "Drug Use (15-49)": 438
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8155"
+  },
+  "Country": "South Korea",
+  "Year": 2009,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1408,
+  "Alcohol (15-49)": 6273,
+  "High BMI (15-49)": 1423,
+  "Smoking (15-49)": 2968,
+  "Drug Use (15-49)": 429
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8156"
+  },
+  "Country": "South Korea",
+  "Year": 2010,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1330,
+  "Alcohol (15-49)": 6045,
+  "High BMI (15-49)": 1358,
+  "Smoking (15-49)": 2812,
+  "Drug Use (15-49)": 411
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8157"
+  },
+  "Country": "South Korea",
+  "Year": 2011,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1237,
+  "Alcohol (15-49)": 5696,
+  "High BMI (15-49)": 1272,
+  "Smoking (15-49)": 2599,
+  "Drug Use (15-49)": 390
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8158"
+  },
+  "Country": "South Korea",
+  "Year": 2012,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1171,
+  "Alcohol (15-49)": 5385,
+  "High BMI (15-49)": 1214,
+  "Smoking (15-49)": 2435,
+  "Drug Use (15-49)": 373
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8159"
+  },
+  "Country": "South Korea",
+  "Year": 2013,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1128,
+  "Alcohol (15-49)": 5156,
+  "High BMI (15-49)": 1176,
+  "Smoking (15-49)": 2305,
+  "Drug Use (15-49)": 362
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d815a"
+  },
+  "Country": "South Korea",
+  "Year": 2014,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1086,
+  "Alcohol (15-49)": 4978,
+  "High BMI (15-49)": 1142,
+  "Smoking (15-49)": 2183,
+  "Drug Use (15-49)": 353
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d815b"
+  },
+  "Country": "South Korea",
+  "Year": 2015,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1035,
+  "Alcohol (15-49)": 4712,
+  "High BMI (15-49)": 1098,
+  "Smoking (15-49)": 2048,
+  "Drug Use (15-49)": 341
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d815c"
+  },
+  "Country": "South Korea",
+  "Year": 2016,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 992,
+  "Alcohol (15-49)": 4533,
+  "High BMI (15-49)": 1062,
+  "Smoking (15-49)": 1934,
+  "Drug Use (15-49)": 331
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d815d"
+  },
+  "Country": "South Korea",
+  "Year": 2017,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 999,
+  "Alcohol (15-49)": 4539,
+  "High BMI (15-49)": 1081,
+  "Smoking (15-49)": 1923,
+  "Drug Use (15-49)": 333
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d815e"
+  },
+  "Country": "South Korea",
+  "Year": 2018,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1022,
+  "Alcohol (15-49)": 4602,
+  "High BMI (15-49)": 1114,
+  "Smoking (15-49)": 1940,
+  "Drug Use (15-49)": 337
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d815f"
+  },
+  "Country": "South Korea",
+  "Year": 2019,
+  "Code": "KOR",
+  "High Blood Pressure (15-49)": 1032,
+  "Alcohol (15-49)": 4625,
+  "High BMI (15-49)": 1134,
+  "Smoking (15-49)": 1938,
+  "Drug Use (15-49)": 338
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8160"
+  },
+  "Country": "United States",
+  "Year": 1990,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15497,
+  "Alcohol (15-49)": 29245,
+  "High BMI (15-49)": 17541,
+  "Smoking (15-49)": 27475,
+  "Drug Use (15-49)": 13788
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8161"
+  },
+  "Country": "United States",
+  "Year": 1991,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15506,
+  "Alcohol (15-49)": 29254,
+  "High BMI (15-49)": 18136,
+  "Smoking (15-49)": 27640,
+  "Drug Use (15-49)": 14892
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8162"
+  },
+  "Country": "United States",
+  "Year": 1992,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15640,
+  "Alcohol (15-49)": 29184,
+  "High BMI (15-49)": 18808,
+  "Smoking (15-49)": 27968,
+  "Drug Use (15-49)": 16117
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8163"
+  },
+  "Country": "United States",
+  "Year": 1993,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15953,
+  "Alcohol (15-49)": 29694,
+  "High BMI (15-49)": 19725,
+  "Smoking (15-49)": 28509,
+  "Drug Use (15-49)": 17581
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8164"
+  },
+  "Country": "United States",
+  "Year": 1994,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16124,
+  "Alcohol (15-49)": 29817,
+  "High BMI (15-49)": 20422,
+  "Smoking (15-49)": 28709,
+  "Drug Use (15-49)": 18835
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8165"
+  },
+  "Country": "United States",
+  "Year": 1995,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16462,
+  "Alcohol (15-49)": 29840,
+  "High BMI (15-49)": 21239,
+  "Smoking (15-49)": 29215,
+  "Drug Use (15-49)": 19500
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8166"
+  },
+  "Country": "United States",
+  "Year": 1996,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16684,
+  "Alcohol (15-49)": 29614,
+  "High BMI (15-49)": 21844,
+  "Smoking (15-49)": 29354,
+  "Drug Use (15-49)": 18446
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8167"
+  },
+  "Country": "United States",
+  "Year": 1997,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16691,
+  "Alcohol (15-49)": 29263,
+  "High BMI (15-49)": 22115,
+  "Smoking (15-49)": 28965,
+  "Drug Use (15-49)": 17253
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8168"
+  },
+  "Country": "United States",
+  "Year": 1998,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16672,
+  "Alcohol (15-49)": 28840,
+  "High BMI (15-49)": 22255,
+  "Smoking (15-49)": 28504,
+  "Drug Use (15-49)": 17604
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8169"
+  },
+  "Country": "United States",
+  "Year": 1999,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16991,
+  "Alcohol (15-49)": 28637,
+  "High BMI (15-49)": 22811,
+  "Smoking (15-49)": 28573,
+  "Drug Use (15-49)": 18980
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d816a"
+  },
+  "Country": "United States",
+  "Year": 2000,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 17415,
+  "Alcohol (15-49)": 28981,
+  "High BMI (15-49)": 23523,
+  "Smoking (15-49)": 28849,
+  "Drug Use (15-49)": 20247
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d816b"
+  },
+  "Country": "United States",
+  "Year": 2001,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 17804,
+  "Alcohol (15-49)": 29648,
+  "High BMI (15-49)": 24333,
+  "Smoking (15-49)": 29131,
+  "Drug Use (15-49)": 21750
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d816c"
+  },
+  "Country": "United States",
+  "Year": 2002,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 18109,
+  "Alcohol (15-49)": 30117,
+  "High BMI (15-49)": 25030,
+  "Smoking (15-49)": 29222,
+  "Drug Use (15-49)": 23644
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d816d"
+  },
+  "Country": "United States",
+  "Year": 2003,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 18121,
+  "Alcohol (15-49)": 30229,
+  "High BMI (15-49)": 25356,
+  "Smoking (15-49)": 28863,
+  "Drug Use (15-49)": 25231
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d816e"
+  },
+  "Country": "United States",
+  "Year": 2004,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 17659,
+  "Alcohol (15-49)": 29844,
+  "High BMI (15-49)": 25019,
+  "Smoking (15-49)": 27825,
+  "Drug Use (15-49)": 26276
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d816f"
+  },
+  "Country": "United States",
+  "Year": 2005,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 17595,
+  "Alcohol (15-49)": 30264,
+  "High BMI (15-49)": 25262,
+  "Smoking (15-49)": 27404,
+  "Drug Use (15-49)": 27571
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8170"
+  },
+  "Country": "United States",
+  "Year": 2006,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 17241,
+  "Alcohol (15-49)": 30152,
+  "High BMI (15-49)": 25178,
+  "Smoking (15-49)": 26587,
+  "Drug Use (15-49)": 28467
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8171"
+  },
+  "Country": "United States",
+  "Year": 2007,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16483,
+  "Alcohol (15-49)": 29723,
+  "High BMI (15-49)": 24599,
+  "Smoking (15-49)": 25287,
+  "Drug Use (15-49)": 28713
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8172"
+  },
+  "Country": "United States",
+  "Year": 2008,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15910,
+  "Alcohol (15-49)": 29278,
+  "High BMI (15-49)": 24278,
+  "Smoking (15-49)": 24314,
+  "Drug Use (15-49)": 28997
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8173"
+  },
+  "Country": "United States",
+  "Year": 2009,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15421,
+  "Alcohol (15-49)": 28846,
+  "High BMI (15-49)": 23948,
+  "Smoking (15-49)": 23336,
+  "Drug Use (15-49)": 29506
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8174"
+  },
+  "Country": "United States",
+  "Year": 2010,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 14831,
+  "Alcohol (15-49)": 28110,
+  "High BMI (15-49)": 23161,
+  "Smoking (15-49)": 21895,
+  "Drug Use (15-49)": 29962
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8175"
+  },
+  "Country": "United States",
+  "Year": 2011,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 14751,
+  "Alcohol (15-49)": 27918,
+  "High BMI (15-49)": 22791,
+  "Smoking (15-49)": 20920,
+  "Drug Use (15-49)": 31308
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8176"
+  },
+  "Country": "United States",
+  "Year": 2012,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 14715,
+  "Alcohol (15-49)": 27590,
+  "High BMI (15-49)": 22254,
+  "Smoking (15-49)": 19773,
+  "Drug Use (15-49)": 32588
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8177"
+  },
+  "Country": "United States",
+  "Year": 2013,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 14905,
+  "Alcohol (15-49)": 27331,
+  "High BMI (15-49)": 21931,
+  "Smoking (15-49)": 18852,
+  "Drug Use (15-49)": 34645
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8178"
+  },
+  "Country": "United States",
+  "Year": 2014,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15204,
+  "Alcohol (15-49)": 27364,
+  "High BMI (15-49)": 21804,
+  "Smoking (15-49)": 18122,
+  "Drug Use (15-49)": 37687
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d8179"
+  },
+  "Country": "United States",
+  "Year": 2015,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15624,
+  "Alcohol (15-49)": 28048,
+  "High BMI (15-49)": 21958,
+  "Smoking (15-49)": 17678,
+  "Drug Use (15-49)": 42157
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d817a"
+  },
+  "Country": "United States",
+  "Year": 2016,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16258,
+  "Alcohol (15-49)": 28828,
+  "High BMI (15-49)": 22431,
+  "Smoking (15-49)": 17655,
+  "Drug Use (15-49)": 47919
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d817b"
+  },
+  "Country": "United States",
+  "Year": 2017,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16276,
+  "Alcohol (15-49)": 28326,
+  "High BMI (15-49)": 22116,
+  "Smoking (15-49)": 17271,
+  "Drug Use (15-49)": 51497
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d817c"
+  },
+  "Country": "United States",
+  "Year": 2018,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 16096,
+  "Alcohol (15-49)": 27432,
+  "High BMI (15-49)": 21632,
+  "Smoking (15-49)": 16857,
+  "Drug Use (15-49)": 52662
+},{
+  "_id": {
+    "$oid": "63638038423ae710289d817d"
+  },
+  "Country": "United States",
+  "Year": 2019,
+  "Code": "USA",
+  "High Blood Pressure (15-49)": 15823,
+  "Alcohol (15-49)": 26793,
+  "High BMI (15-49)": 21066,
+  "Smoking (15-49)": 16378,
+  "Drug Use (15-49)": 54479
+}]
